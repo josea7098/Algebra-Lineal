@@ -1,3 +1,4 @@
+install.packages("revealjs", type = "source")
 ---
 title: "Habits"
 author: John Doe
